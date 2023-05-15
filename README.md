@@ -4,8 +4,7 @@ I'm Erik from Colombia, I'm passionate about coding and learning new things ever
 
 Skills: PYTHON / JS / HTML / CSS
 
-- ![GofourwardWebdesignGIF](https://github.com/erikmr11/erikmr11/assets/133611413/98b858e9-c033-45c1-b9e5-a44072501678)
- I’m currently working on small projects. 
+- 📑 I’m currently working on small projects. 
 - 📚 I’m currently learning Object oriented, Client-Side and Server-Side all with Java.  
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on Game Development. 
 
